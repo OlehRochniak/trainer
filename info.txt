@@ -1,0 +1,227 @@
+dürfen_00-00_Verb.mp3	dürfen	иметь разрешение , мочь с чьего-то позволения
+sollen_00-00_Verb.mp3	sollen	быть обязаным по мнению другого , по правилам , рекомендация
+Wiedersehen das_01-01_Substantiv.mp3	das Wiedersehen	прощание , повторная встреча
+Heute das_01-01_Substantiv.mp3	das Heute	сегодняшний день , настоящее время
+Abend der_01-01_Substantiv.mp3	der Abend	вечер
+Alphabet das_01-01_Substantiv.mp3	das Alphabet	алфавит
+Buchstabe der_01-01_Substantiv.mp3	der Buchstabe	буква
+Familie die_01-01_Substantiv.mp3	die Familie	семья
+Familienname der_01-01_Substantiv.mp3	der Familienname	фамилия формально
+Frau die_01-01_Substantiv.mp3	die Frau	женщина , жена
+Gespräch das_01-01_Substantiv.mp3	das Gespräch	разговор , беседа
+Herr der_01-01_Substantiv.mp3	der Herr	мужчина , муж
+Land das_01-01_Substantiv.mp3	das Land	страна , земля
+Lied das_01-01_Substantiv.mp3	das Lied	песня
+Morgen der_01-01_Substantiv.mp3	der Morgen	утро
+Nachname der_01-01_Substantiv.mp3	der Nachname	фамилия разговорное
+Nacht die_01-01_Substantiv.mp3	die Nacht	ночь
+Name der_01-01_Substantiv.mp3	der Name	имя и фамилия , только имя , название предмета
+Recht das_01-01_Substantiv.mp3	das Recht	право , закон , правота , справедливость
+Satz der_01-01_Substantiv.mp3	der Satz	предложение , фраза
+Stunde die_01-01_Substantiv.mp3	die Stunde	час занятие , время
+Tag der_01-01_Substantiv.mp3	der Tag	день
+Vorname der_01-01_Substantiv.mp3	der Vorname	имя
+arbeiten_01-01_Verb.mp3	arbeiten	работать , трудиться
+buchstabieren_01-01_Verb.mp3	buchstabieren	произносить по буквам
+ergänzen_01-01_Verb.mp3	ergänzen	дополнять , заполнять , вставлять
+gehen_01-01_Verb.mp3	gehen	идти , уходить , проходить , отправляться
+gleichen_01-01_Verb.mp3	gleichen	быть похожим , соответствовать
+heißen_01-01_Verb.mp3	heißen	называться , зваться
+hören_01-01_Verb.mp3	hören	слышать , слушать
+kennen_01-01_Verb.mp3	kennen	знать , быть знакомым
+kommen_01-01_Verb.mp3	kommen	приходить , прибывать , появляться , наступать , происходить , стоить
+notieren_01-01_Verb.mp3	notieren	записывать , помечать
+ordnen_01-01_Verb.mp3	ordnen	упорядочивать , сортировать , располагать по порядку
+sagen_01-01_Verb.mp3	sagen	говорить , сказать , высказываться
+scheiden_01-01_Verb.mp3	scheiden	разводиться , расставаться , разделять , отделять
+sein_01-01_Verb.mp3	sein	быть , являться , находиться
+sprechen_01-01_Verb.mp3	sprechen	говорить , разговаривать , изъясняться
+üben_01-01_Verb.mp3	üben	упражняться , тренироваться , практиковать
+verabschieden_01-01_Verb.mp3	verabschieden	прощаться , прощать при расставании
+vergleichen_01-01_Verb.mp3	vergleichen	сравнивать
+zeichnen_01-01_Verb.mp3	zeichnen	рисовать , чертить
+gut_01-01_Beschreibend.mp3	gut	хороший, добрый, качественный
+interessant_01-01_Beschreibend.mp3	interessant	интересный, занимательный, увлекательный
+sehr_01-01_Beschreibend.mp3	sehr	очень, весьма, значительно, крайне, чрезвычайно
+weniger_01-01_Beschreibend.mp3	weniger	меньше, реже
+Alter das_01-02_Substantiv.mp3	das Alter	возраст
+Familienstand der_01-02_Substantiv.mp3	der Familienstand	семейное положение
+Herkunft die_01-02_Substantiv.mp3	die Herkunft	происхождение
+Arbeitslosigkeit die_01-02_Substantiv.mp3	die Arbeitslosigkeit	безработица
+Angabe die_01-02_Substantiv.mp3	die Angabe	указание , данные информация
+Antwort die_01-02_Substantiv.mp3	die Antwort	ответ
+Arbeitgeber der_01-02_Substantiv.mp3	der Arbeitgeber	работодатель
+Architekt der_01-02_Substantiv.mp3	der Architekt	архитектор
+Arzt der_01-02_Substantiv.mp3	der Arzt	врач
+Ausbildung die_01-02_Substantiv.mp3	die Ausbildung	обучение , профподготовка
+Beruf der_01-02_Substantiv.mp3	der Beruf	профессия
+Frage die_01-02_Substantiv.mp3	die Frage	вопрос
+Friseur der_01-02_Substantiv.mp3	der Friseur	парикмахер
+Historiker der_01-02_Substantiv.mp3	der Historiker	историк
+Hochschule die_01-02_Substantiv.mp3	die Hochschule	высшее учебное заведение
+Ingenieur der_01-02_Substantiv.mp3	der Ingenieur	инженер
+Interview das_01-02_Substantiv.mp3	das Interview	интервью
+Jahr das_01-02_Substantiv.mp3	das Jahr	год
+Job der_01-02_Substantiv.mp3	der Job	работа
+Journalist der_01-02_Substantiv.mp3	der Journalist	журналист
+Kellner der_01-02_Substantiv.mp3	der Kellner	официант
+Kind das_01-02_Substantiv.mp3	das Kind	ребёнок
+Krankenpfleger der_01-02_Substantiv.mp3	der Krankenpfleger	медбрат
+Laut der_01-02_Substantiv.mp3	der Laut	звук , тон , шум
+Lehrer der_01-02_Substantiv.mp3	der Lehrer	учитель
+Mechatroniker der_01-02_Substantiv.mp3	der Mechatroniker	механик
+Partner der_01-02_Substantiv.mp3	der Partner	партнёр
+Person die_01-02_Substantiv.mp3	die Person	человек , персона
+Porträt das_01-02_Substantiv.mp3	das Porträt	портрет
+Praktikum das_01-02_Substantiv.mp3	das Praktikum	практика
+Schauspieler der_01-02_Substantiv.mp3	der Schauspieler	актёр
+Schule die_01-02_Substantiv.mp3	die Schule	школа
+Schüler der_01-02_Substantiv.mp3	der Schüler	ученик
+Sekretär der_01-02_Substantiv.mp3	der Sekretär	секретарь
+Silbe die_01-02_Substantiv.mp3	die Silbe	слог
+Single der_01-02_Substantiv.mp3	der Single	холостяк , одинокий человек
+Stadt die_01-02_Substantiv.mp3	die Stadt	город
+Steckbrief der_01-02_Substantiv.mp3	der Steckbrief	краткая анкета , основные сведения
+Stelle die_01-02_Substantiv.mp3	die Stelle	место работы , должность , позиция
+Student der_01-02_Substantiv.mp3	der Student	студент
+Telefonnummer die_01-02_Substantiv.mp3	die Telefonnummer	номер телефона
+Test der_01-02_Substantiv.mp3	der Test	тест
+Universität die_01-02_Substantiv.mp3	die Universität	университет
+Verkäufer der_01-02_Substantiv.mp3	der Verkäufer	продавец
+Visitenkarte die_01-02_Substantiv.mp3	die Visitenkarte	визитная карточка
+Wohnort der_01-02_Substantiv.mp3	der Wohnort	место жительства
+Wortakzent der_01-02_Substantiv.mp3	der Wortakzent	ударение в слове
+Wörterbuch das_01-02_Substantiv.mp3	das Wörterbuch	словарь
+Zahl die_01-02_Substantiv.mp3	die Zahl	число , цифра
+beantworten_01-02_Verb.mp3	beantworten	отвечать на что-либо
+betonen_01-02_Verb.mp3	betonen	подчёркивать , акцентировать , ставить ударение
+binden_01-02_Verb.mp3	binden	связывать , привязывать
+glauben_01-02_Verb.mp3	glauben	верить , полагать , считать , доверять
+haben_01-02_Verb.mp3	haben	иметь , обладать
+kreuzen_01-02_Verb.mp3	kreuzen	пересекать
+leben_01-02_Verb.mp3	leben	жить , существовать
+lesen_01-02_Verb.mp3	lesen	читать
+machen_01-02_Verb.mp3	machen	делать , изготавливать , совершать
+markieren_01-02_Verb.mp3	markieren	отмечать , помечать , подчёркивать
+meinen_01-02_Verb.mp3	meinen	думатьрационально , иметь в виду , полагать
+passen_01-02_Verb.mp3	passen	подходить , соответствовать , быть впору
+schreiben_01-02_Verb.mp3	schreiben	писать
+sehen_01-02_Verb.mp3	sehen	видеть , смотреть
+studieren_01-02_Verb.mp3	studieren	учиться в вузе , изучать академически
+tauschen_01-02_Verb.mp3	tauschen	обменивать , меняться
+verbinden_01-02_Verb.mp3	verbinden	соединять , связывать , объединять
+wohnen_01-02_Verb.mp3	wohnen	жить , проживать
+zusammenleben_01-02_Verb.mp3	zusammenleben	жить вместе , сожительствовать
+beruflich_01-02_Beschreibend.mp3	beruflich	профессиональный, служебный , по работе служебным обязанностям
+flexibel_01-02_Beschreibend.mp3	flexibel	гибкий
+geschieden_01-02_Beschreibend.mp3	geschieden	в разводе
+ledig_01-02_Beschreibend.mp3	ledig	холостой, незамужняя
+verheiratet_01-02_Beschreibend.mp3	verheiratet	состоящий в браке
+zurzeit_01-02_Beschreibend.mp3	zurzeit	сейчас, теперь, в данный момент
+allein_01-02_Beschreibend.mp3	allein	одинокий, сам, без других
+alt_01-02_Beschreibend.mp3	alt	старый, пожилой, древний
+falsch_01-02_Beschreibend.mp3	falsch	неправильный, неверный, ложный
+immer_01-02_Beschreibend.mp3	immer	всегда, постоянно, всё время, непрерывно, каждый раз
+jetzt_01-02_Beschreibend.mp3	jetzt	сейчас, теперь, в данный момент, в настоящее время
+laut_01-02_Beschreibend.mp3	laut	громкий, шумный, звучный 
+richtig_01-02_Beschreibend.mp3	richtig	правильный, верный, точный
+schon_01-02_Beschreibend.mp3	schon	уже, уже тогда, уже сейчас, ещё, всё же
+super_01-02_Beschreibend.mp3	super	супер, отличный
+zusammen_01-02_Beschreibend.mp3	zusammen	вместе, совместно, сообща
+unverheiratet_01-02_Beschreibend.mp3	unverheiratet	неженатый, не замужем
+alleinstehend_01-02_Beschreibend.mp3	alleinstehend	одинокий официально
+Physik die_01-03_Substantiv.mp3	die Physik	физика наука
+Musik die_01-03_Substantiv.mp3	die Musik	музыка
+Abschied der_01-03_Substantiv.mp3	der Abschied	прощание , расставание
+Adresse die_01-03_Substantiv.mp3	die Adresse	адрес
+Aussage die_01-03_Substantiv.mp3	die Aussage	высказывание , утверждение
+Baby das_01-03_Substantiv.mp3	das Baby	младенец
+Bild das_01-03_Substantiv.mp3	das Bild	картина , изображение , фото
+Bruder der_01-03_Substantiv.mp3	der Bruder	брат
+Chef der_01-03_Substantiv.mp3	der Chef	начальник , шеф
+Ehefrau die_01-03_Substantiv.mp3	die Ehefrau	супруга
+Ehemann der_01-03_Substantiv.mp3	der Ehemann	супруг
+Eltern die_01-03_Substantiv.mp3	die Eltern	родители
+Enkel der_01-03_Substantiv.mp3	der Enkel	внук
+Enkelin die_01-03_Substantiv.mp3	die Enkelin	внучка
+Enkelkind das_01-03_Substantiv.mp3	das Enkelkind	внук , внучка
+Ente die_01-03_Substantiv.mp3	die Ente	утка
+Ferien die_01-03_Substantiv.mp3	die Ferien	каникулы , отпуск
+Fremdsprache die_01-03_Substantiv.mp3	die Fremdsprache	иностранный язык
+Freund der_01-03_Substantiv.mp3	der Freund	друг , парень
+Freundin die_01-03_Substantiv.mp3	die Freundin	подруга , девушка
+Garten der_01-03_Substantiv.mp3	der Garten	сад
+Geschwister die_01-03_Substantiv.mp3	die Geschwister	братья и сёстры
+Großeltern die_01-03_Substantiv.mp3	die Großeltern	бабушка и дедушка
+Großmutter die_01-03_Substantiv.mp3	die Großmutter	бабушка
+Großvater der_01-03_Substantiv.mp3	der Großvater	дедушка
+Gruß der_01-03_Substantiv.mp3	der Gruß	приветствие , прощание
+Heimatstadt die_01-03_Substantiv.mp3	die Heimatstadt	родной город
+Hobby das_01-03_Substantiv.mp3	das Hobby	хобби
+Hochzeit die_01-03_Substantiv.mp3	die Hochzeit	свадьба
+Hund der_01-03_Substantiv.mp3	der Hund	собака
+Karte die_01-03_Substantiv.mp3	die Karte	карта , открытка , билет
+Kollege der_01-03_Substantiv.mp3	der Kollege	коллега
+Lösung die_01-03_Substantiv.mp3	die Lösung	решение
+Mädchen das_01-03_Substantiv.mp3	das Mädchen	девочка
+Manager der_01-03_Substantiv.mp3	der Manager	менеджер
+Mann der_01-03_Substantiv.mp3	der Mann	мужчина , муж
+Mitglied das_01-03_Substantiv.mp3	das Mitglied	член организации и тому подобное
+Model das_01-03_Substantiv.mp3	das Model	модель человек
+Moderator der_01-03_Substantiv.mp3	der Moderator	ведущий
+Mutter die_01-03_Substantiv.mp3	die Mutter	мать
+Negation die_01-03_Substantiv.mp3	die Negation	отрицание
+Nichte die_01-03_Substantiv.mp3	die Nichte	племянница
+Oma die_01-03_Substantiv.mp3	die Oma	бабушка
+Opa der_01-03_Substantiv.mp3	der Opa	дедушка
+Reportage die_01-03_Substantiv.mp3	die Reportage	репортаж
+Sänger der_01-03_Substantiv.mp3	der Sänger	певец
+Schwester die_01-03_Substantiv.mp3	die Schwester	сестра
+Show die_01-03_Substantiv.mp3	die Show	шоу
+Sohn der_01-03_Substantiv.mp3	der Sohn	сын
+Sprache die_01-03_Substantiv.mp3	die Sprache	язык
+Sternzeichen das_01-03_Substantiv.mp3	das Sternzeichen	знак зодиака
+Studium das_01-03_Substantiv.mp3	das Studium	учёба в вузе
+Tochter die_01-03_Substantiv.mp3	die Tochter	дочь
+Unternehmen das_01-03_Substantiv.mp3	das Unternehmen	предприятие , компания
+Vater der_01-03_Substantiv.mp3	der Vater	отец
+Zeitung die_01-03_Substantiv.mp3	die Zeitung	газета
+bellen_01-03_Verb.mp3	bellen	лаять
+denken_01-03_Verb.mp3	denken	думать , размышлять , вспоминать
+fliegen_01-03_Verb.mp3	fliegen	летать , лететь
+fragen_01-03_Verb.mp3	fragen	спрашивать
+füttern_01-03_Verb.mp3	füttern	кормить кого то кто не ест сам
+interviewen_01-03_Verb.mp3	interviewen	брать интервью
+sitzen_01-03_Verb.mp3	sitzen	сидеть
+spielen_01-03_Verb.mp3	spielen	играть , исполнять роль, музыку
+wissen_01-03_Verb.mp3	wissen	знать информацию, факты
+ein bisschen_01-03_Beschreibend.mp3	ein bisschen	немного, чуть-чуть, слегка, некоторое количество
+genau_01-03_Beschreibend.mp3	genau	именно, отлично, превосходно
+etwas_01-03_Beschreibend.mp3	etwas	немного, слегка, несколько, чуть-чуть
+exakt_01-03_Beschreibend.mp3	exakt	точный, аккуратный, именно, ровно
+präzise_01-03_Beschreibend.mp3	präzise	чёткий, определённый, строгий в смысле выверенный
+ungenau_01-03_Beschreibend.mp3	ungenau	приблизительный, небрежный
+achten_01-99_Verb.mp3	achten	обращать внимание , следить , уважать
+ankreuzen_01-99_Verb.mp3	ankreuzen	отмечать крестиком , помечать
+antworten_01-99_Verb.mp3	antworten	отвечать
+begrüßen_01-99_Verb.mp3	begrüßen	приветствовать
+beschreiben_01-99_Verb.mp3	beschreiben	описывать
+danken_01-99_Verb.mp3	danken	благодарить
+diktieren_01-99_Verb.mp3	diktieren	диктовать
+erinnern_01-99_Verb.mp3	erinnern	напоминать , вспоминать
+finden_01-99_Verb.mp3	finden	находить , обнаруживать
+grüßen_01-99_Verb.mp3	grüßen	приветствовать
+helfen_01-99_Verb.mp3	helfen	помогать
+klingen_01-99_Verb.mp3	klingen	звучать
+kochen_01-99_Verb.mp3	kochen	готовить , варить
+lernen_01-99_Verb.mp3	lernen	учить , изучать , учиться в общем смысле
+moderieren_01-99_Verb.mp3	moderieren	вести программу, мероприятие , модерировать
+setzen_01-99_Verb.mp3	setzen	сажать , помещать , устанавливать
+singen_01-99_Verb.mp3	singen	петь
+sortieren_01-99_Verb.mp3	sortieren	сортировать , классифицировать
+stellen_01-99_Verb.mp3	stellen	ставитьчто-то вертикально , размещатьв пространстве , задавать вопрос , подаватьдокументы
+suchen_01-99_Verb.mp3	suchen	искать
+übersetzen_01-99_Verb.mp3	übersetzen	переводить
+verneinen_01-99_Verb.mp3	verneinen	отрицать
+zurückgehen_01-99_Verb.mp3	zurückgehen	возвращаться обратно , отходить назад
+perfekt_01-99_Beschreibend.mp3	perfekt	превосходный, отличный

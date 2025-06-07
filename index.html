@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Wort Trainer</title>
+  <style>
+    body {
+      background: #111;
+      color: #fff;
+      font-family: sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      height: 100vh;
+      text-align: center;
+      gap: 1em;
+    }
+    #word {
+      font-size: 6em;
+      margin-bottom: 0.5em;
+    }
+    #translation {
+      font-size: 1.5em;
+      opacity: 0.7;
+    }
+    #log {
+      font-size: 0.8em;
+      color: #888;
+    }
+    #repeatControl {
+      font-size: 1em;
+      padding: 0.5em 1em;
+      border-radius: 0.5em;
+      border: none;
+      background: #222;
+      color: #fff;
+      cursor: pointer;
+    }
+    #repeatControl option {
+      background: #222;
+    }
+  </style>
+</head>
+<body>
+  <select id="repeatControl">
+    <option value="0">Повторять бесконечно</option>
+    <option value="1">1 раз</option>
+    <option value="5">5 раз</option>
+    <option value="10">10 раз</option>
+  </select>
+
+  <div id="word">Загрузка...</div>
+  <div id="translation"></div>
+  <div id="log"></div>
+  <audio id="player"></audio>
+
+  <script>
+    const order = [
+      "GER Amala",
+      "GER Conrad",
+      "RUS Dmitry",
+      "GER Katja",
+      "GER Seraphina",
+      "RUS Svetlana",
+      "GER Florian"
+    ];
+
+    const pauseDuration = 500; // Пауза между голосами (мс)
+
+    let entries = [];
+    let currentIndex = 0;
+    let isPlaying = false;
+    let isPaused = false;
+    let subIndex = 0;
+    let repetitionCount = 0;
+
+    const wordDiv = document.getElementById("word");
+    const translationDiv = document.getElementById("translation");
+    const logDiv = document.getElementById("log");
+    const audio = document.getElementById("player");
+    const repeatControl = document.getElementById("repeatControl");
+
+    function log(msg) {
+      console.log(msg);
+      logDiv.textContent = msg;
+    }
+
+    function initApp() {
+      fetch("info.txt")
+        .then(res => {
+          if (!res.ok) throw new Error("Файл info.txt не найден или не загружается");
+          return res.text();
+        })
+        .then(text => {
+          const lines = text.split("\n");
+          entries = lines.map((line, index) => {
+            const parts = line.split("\t");
+            if (parts.length < 3) {
+              log(`⚠️ Строка ${index + 1} неверна: "${line}"`);
+              return null;
+            }
+            return {
+              filename: parts[0].trim(),
+              german: parts[1].trim(),
+              translation: parts[2].trim()
+            };
+          }).filter(Boolean);
+
+          if (entries.length === 0) {
+            log("❌ Ни одной корректной строки в info.txt не найдено");
+          } else {
+            log("👆 Нажмите любую клавишу для старта...");
+            window.addEventListener("keydown", startFirstEntry, { once: true });
+          }
+        })
+        .catch(err => log(`❌ Ошибка: ${err.message}`));
+    }
+
+    function startFirstEntry() {
+      log(`✅ Загружено ${entries.length} записей`);
+      setupControls();
+      playEntry(entries[currentIndex]);
+    }
+
+    function playEntry(entry) {
+      isPlaying = true;
+      wordDiv.textContent = entry.german;
+      translationDiv.textContent = entry.translation;
+      subIndex = 0;
+      repetitionCount = 0;
+      playNextVoice(entry);
+    }
+
+    function playNextVoice(entry) {
+      if (!isPlaying || isPaused) return;
+      const folder = order[subIndex % order.length];
+      const path = `sound/${folder}/${entry.filename}`;
+      log(`🔊 Воспроизведение: ${path}`);
+      audio.src = path;
+      audio.play().catch(err => log(`❌ Ошибка воспроизведения: ${err.message}`));
+
+      audio.onended = () => {
+        setTimeout(() => {
+          if (!isPlaying || isPaused) return;
+          subIndex++;
+
+          if (subIndex >= order.length) {
+            subIndex = 0;
+            repetitionCount++;
+            const repeatLimit = parseInt(repeatControl.value);
+
+            if (repeatLimit !== 0 && repetitionCount >= repeatLimit) {
+              handleNext();
+              return;
+            }
+          }
+
+          playNextVoice(entry);
+        }, pauseDuration);
+      };
+    }
+
+    function setupControls() {
+      window.addEventListener("keydown", (e) => {
+        if (e.code === "ArrowRight") {
+          currentIndex = (currentIndex + 1) % entries.length;
+          playEntry(entries[currentIndex]);
+        } else if (e.code === "ArrowLeft") {
+          currentIndex = (currentIndex - 1 + entries.length) % entries.length;
+          playEntry(entries[currentIndex]);
+        } else if (e.code === "Space") {
+          isPaused = !isPaused;
+          if (!isPaused) {
+            log("▶️ Возобновлено");
+            playNextVoice(entries[currentIndex]);
+          } else {
+            log("⏸ Приостановлено (нажмите пробел, чтобы продолжить)");
+          }
+        }
+      });
+    }
+
+    function handleNext() {
+      currentIndex = (currentIndex + 1) % entries.length;
+      playEntry(entries[currentIndex]);
+    }
+
+    // Запуск
+    initApp();
+  </script>
+</body>
+</html>
